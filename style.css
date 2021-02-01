@@ -1,0 +1,38 @@
+.bg1 h2 {
+    background-image: url(2.jpg);
+}
+.bg1 h1 {
+    color: red;
+}
+body{
+    background-image: url(new4.jpg);
+}
+
+.alamat{
+    background-image: url(new5.jpg);
+}
+
+.penerimaan  {
+    background-image: url(new1.jpg);
+}
+.penerimaan h2 {
+    color: white;
+    font-size: xx-large;
+}
+.bgrnd1  {
+    background-image: url(sma.jpg);
+}
+.formulir {
+    background-image: url(new5.jpg);
+}
+.pendaftaran{
+    color: black;
+}
+
+.pendaftaran {
+    background-color: red;
+    width: 900px;
+    margin: auto;
+   
+}
+
